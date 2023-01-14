@@ -17,7 +17,7 @@ function App() {
           <About />
           <Tree />
           <Link href="https://sequoiavans.com" pt="8" isExternal>
-            <Avatar src="/jcs.png" mx="auto" size="md" />
+            <Avatar src="/1f332.svg" mx="auto" size="md" />
           </Link>
         </VStack>
       </Flex>

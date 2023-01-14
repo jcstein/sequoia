@@ -4,7 +4,7 @@ export const About = () => {
   return (
     <VStack pb="5">
       <Avatar src="/jcs.jpeg" mx="auto" size="2xl" />
-      <Heading pb="3">joshcs.eth</Heading>
+      <Heading pb="3">Sequoia Vans</Heading>
     </VStack>
   );
 };

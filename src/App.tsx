@@ -16,7 +16,7 @@ function App() {
         <VStack p="8" width="100%">
           <About />
           <Tree />
-          <Link href="https://joshcs.lol" pt="8" isExternal>
+          <Link href="https://sequoiavans.com" pt="8" isExternal>
             <Avatar src="/jcs.png" mx="auto" size="md" />
           </Link>
         </VStack>
